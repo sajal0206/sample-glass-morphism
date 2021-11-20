@@ -49,6 +49,12 @@ body::after{
     font-size: medium;
     margin-block: 0.5rem;
 }
+.main .bottom{
+    width: 100%;
+    position: absolute;
+    bottom: 1%;
+    text-align: center;
+}
 @media screen and (max-width: 480px) {
     .main{
         width: 80%;
